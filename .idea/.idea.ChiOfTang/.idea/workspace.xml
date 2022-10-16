@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1039f987-8712-479c-abd3-4f4a54e27cd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChiOfTang/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChiOfTang/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChiOfTang/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChiOfTang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Animators.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Body.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Body.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Body.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/BodyAo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/BodyAo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/BodyNormal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/BodyNormal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Face.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Face.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Face.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/GroundMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/GroundMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Hair.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Hair.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Hair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Hair.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/HairIllum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/HairIllum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/HairNormal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/HairNormal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Level.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Level.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelAo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelAo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelDif.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelDif.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelIllum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelIllum.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelMetal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelMetal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelNormal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/LevelNormal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Muryotaisu.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Models/Muryotaisu.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Day.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Day.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Day.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Day_Sunless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Day_Sunless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Day_Sunless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Day_Sunless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Night.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Night.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Night.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Night_Moonless.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Night_Moonless.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Night_Moonless.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Night_Moonless.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Rainy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Rainy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Rainy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Rainy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Snowy.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Snowy.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Snowy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Snowy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Sunrise.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Sunrise.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Sunrise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Sunset.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Sunset.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Skybox/FS017/FS017_Sunset.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/UI/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/UI/Fonts/Unifont点阵黑13.0.01.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/UI/Fonts/Unifont点阵黑13.0.01.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Muryotaisu.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Muryotaisu.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/Data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/Data/SaveData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/Data/SaveData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GamePlay.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GamePlay/GameCharacterController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GamePlay/GameCharacterController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GameUI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GameUI/Start.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GameUI/Start/StartManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GameUI/Start/StartManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/Global.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/Global/GlobalResultSave.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/Global/GlobalResultSave.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/Utils.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.polybrush/Settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Rainy.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Rainy.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Rainy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Rainy.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Snowy.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Snowy.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Snowy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Snowy.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunrise.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunrise.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunrise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunrise.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/GroundMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/GroundMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Fonts/Unifont点阵黑13.0.01.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Fonts/Unifont点阵黑13.0.01.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Levels/00.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Levels/00.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StartScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GCMDx2mk8tdvffCG8UV2XQRSJL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/data/hdd/purofle/Applications/UnityEditor/2021.3.6f1c1/Editor/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath $PROJECT_DIR$ -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1039f987-8712-479c-abd3-4f4a54e27cd8" name="Changes" comment="" />
+      <created>1665887998705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665887998705</updated>
+      <workItem from="1665888009055" duration="334000" />
+      <workItem from="1665888425571" duration="4142000" />
+      <workItem from="1665903052278" duration="1073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
