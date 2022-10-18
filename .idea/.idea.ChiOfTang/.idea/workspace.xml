@@ -2,72 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1039f987-8712-479c-abd3-4f4a54e27cd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Animators/MuryotaisuAnimator Controller.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GameAssets/Animators/MuryotaisuAnimator Controller.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Fall.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Fall.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Idle.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Idle.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Jump.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Jump.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Run.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Run.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Sprint.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Sprint.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Strafe.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Strafe.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Talk.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Talk.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Walk.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/AnimationControllers/BasicMotions@Walk.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Idles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle02.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle02.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Fall01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Fall01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Jump01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Jump01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Strafe01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Strafe01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Social.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Talk01.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Talk01.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Polybrush Data.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Polybrush Data/Brush Settings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Polybrush Data/Brush Settings/BrushSettings-Default.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Polybrush Data/Brush Settings/BrushSettings-Default.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Terrain.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Terrain/Terrain_0_0_744c0a3b-c126-4222-b2c3-2803efeb9515.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Terrain/Terrain_0_0_744c0a3b-c126-4222-b2c3-2803efeb9515.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Terrain/Terrain_0_0_e59aa66c-1106-4534-9cd3-1423def59f62.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Terrain/Terrain_0_0_e59aa66c-1106-4534-9cd3-1423def59f62.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GamePlay/CameraFlow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GamePlay/CameraFlow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GameUI/ShowFPS.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GameUI/ShowFPS.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ChiOfTang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChiOfTang/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Levels/00.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Levels/00.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GamePlay/GameCharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GamePlay/GameCharacterController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.polybrush/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.polybrush/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GamePlay/CameraFlow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChiOfTang/GameUI/ShowFPS.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -136,6 +91,7 @@
       <workItem from="1665903052278" duration="1073000" />
       <workItem from="1665994859637" duration="613000" />
       <workItem from="1665998472144" duration="3600000" />
+      <workItem from="1666006933411" duration="3973000" />
     </task>
     <servers />
   </component>

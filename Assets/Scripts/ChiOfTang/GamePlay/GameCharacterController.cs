@@ -1,4 +1,3 @@
-using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine;
 
 namespace ChiOfTang.GamePlay
@@ -18,14 +17,14 @@ namespace ChiOfTang.GamePlay
         }
 
         // Update is called once per frame
-        void Update()
+        private void Update()
         {
-            CameraFollow();
             CheckMobileInput();
             if (isRunning)
             {
                 Running();
-            } else if (_animator.GetBool(IsRunning))
+            }
+            else if (_animator.GetBool(IsRunning))
             {
                 _animator.SetBool(IsRunning, false);
             }
@@ -33,7 +32,7 @@ namespace ChiOfTang.GamePlay
 
         private void Running()
         {
-            characterController.Move(Vector3.forward * Time.deltaTime);
+            characterController.Move(Vector3.forward * (Time.deltaTime * 5));
             if (!_animator.GetBool(IsRunning))
             {
                 _animator.SetBool(IsRunning, true);
@@ -48,42 +47,10 @@ namespace ChiOfTang.GamePlay
             isRunning = _touch.phase switch
             {
                 TouchPhase.Began => true,
-                TouchPhase.Ended => false,
                 _ => isRunning
             };
 
             // 滑动移动
-            if (_touch.phase != TouchPhase.Moved) return;
-            var deltaPosition = _touch.deltaPosition;
-            var x = deltaPosition.x;
-            var y = deltaPosition.y;
-            if (Mathf.Abs(x) > Mathf.Abs(y))
-            {
-                if (x > 0)
-                {
-                    transform.Rotate(Vector3.up, 1);
-                }
-                else
-                {
-                    transform.Rotate(Vector3.up, -1);
-                }
-            }
-            else
-            {
-                if (y > 0)
-                {
-                    transform.Rotate(Vector3.right, 1);
-                }
-                else
-                {
-                    transform.Rotate(Vector3.right, -1);
-                }
-            }
-        }
-
-        void CameraFollow()
-        {
-            // 相机跟随人物
             
         }
     }
