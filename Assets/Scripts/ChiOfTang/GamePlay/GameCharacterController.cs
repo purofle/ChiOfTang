@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 namespace ChiOfTang.GamePlay
@@ -10,6 +11,12 @@ namespace ChiOfTang.GamePlay
         private Animator _animator;
         private static readonly int IsRunning = Animator.StringToHash("isRunning");
         private Touch _touch;
+        private Camera _camera;
+
+        private void Start()
+        {
+            _camera = Camera.main;
+        }
 
         void Awake()
         {
@@ -19,6 +26,7 @@ namespace ChiOfTang.GamePlay
         // Update is called once per frame
         private void Update()
         {
+            KeyboardInput();
             CheckMobileInput();
             if (isRunning)
             {
@@ -49,9 +57,26 @@ namespace ChiOfTang.GamePlay
                 TouchPhase.Began => true,
                 _ => isRunning
             };
+        }
 
-            // 滑动移动
-            
+        private void KeyboardInput()
+        {
+            if (Input.GetKey(KeyCode.W) && !isRunning)
+            {
+                isRunning = true;
+            }
+
+            if (Input.GetKey(KeyCode.D))
+            {
+                // 人物向右移动
+                characterController.Move(Vector3.right * (Time.deltaTime * 8));
+            }
+
+            if (Input.GetKey(KeyCode.A))
+            {
+                // 人物向左移动
+                characterController.Move(Vector3.left * (Time.deltaTime * 8));
+            }
         }
     }
 }
